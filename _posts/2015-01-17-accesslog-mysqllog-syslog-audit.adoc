@@ -1,0 +1,22 @@
+= 日志分析审计
+
+:hp-tags :  日志审计，日志，日志监控
+
+:published_at: 2015-01-17
+
+:hp-alt-title: accesslog mysqllog syslog audit
+
+#### SeciLog
+##### 简介
+```text
+具有多种方式监控多种日志，丰富报表，跨平台的软件
+博客：http://my.oschina.net/secisland/blog
+网盘：http://pan.baidu.com/s/1qWt7Hxi
+Github：https://github.com/zhulinu
+```
+##### 备注
+```text
+感觉还不错，后期可整合到日志审计中做WAF/IDS等。
+
+```
+ps:为啥这篇文章总是发不出去呢...

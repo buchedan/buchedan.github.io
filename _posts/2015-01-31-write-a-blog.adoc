@@ -1,0 +1,32 @@
+= 搭建一个小博客
+
+:hp-tags: HubPress, Blog, Open Source,测试
+
+:published_at: 2015-01-31
+
+:hp-alt-title: write a blog 
+
+#### 测试下markdown标签
+
+测试搭建了一个小博客，可惜不支持markdown，可惜使用的是AsciiDoctor编写的，很不适应。
+
+#### python 语法标签支持
+
+```python
+
+# coding:utf-8
+
+import os
+
+if __name__ == '__main__':
+    print os.getcwd()
+    print('Hello,world')
+    
+```
+. setp1
+.. setp1
+. setp2
+.. setp1
+
+#### 支持markdown和AsciiDoctor语法
+语法连接：(http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#markdown-compatibility-asciidoctor-only)
